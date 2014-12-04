@@ -12,7 +12,7 @@ h2 {
 }
 
 p { 
-    font-family: ariel;
+    font-family: ariel, helvetica, sans-serif;
     font-size: 16px;
     line-height: 24px;
 }
